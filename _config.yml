@@ -1,10 +1,12 @@
 # Setup
-title: MyPage
+title: Notes
+description: on knowledge managment, databases, and networks 
 tagline: 
-url: https://adampuchejda.github.io
+url: 
 paginate: 1
-baseurl: ""
+baseurl: "/"
 permalink: pretty
+githubpage: "https://github.com/adampuchejda"
 
 # Gems
 plugins:
@@ -38,4 +40,4 @@ author:
   email: adam.puchejda@protonmail.com
 
 # Custom vars
-version: 0.1.0
+version: 0.2.0
