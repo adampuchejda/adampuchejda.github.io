@@ -4,7 +4,7 @@ description: on knowledge managment, databases, and networks
 tagline: 
 url: 
 paginate: 1
-baseurl: "/"
+baseurl: "https://adampuchejda.github.io/"
 permalink: pretty
 githubpage: "https://github.com/adampuchejda"
 
